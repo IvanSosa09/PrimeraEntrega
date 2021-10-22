@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "nombre":"Jordan 1 Hight Chicago",
+        "descripcion":"Icónicas jordan",
+        "codigo":1,
+        "image":"",
+        "precio":2000,
+        "stock":true
+    },{
+        "id":2,
+        "nombre":"Jordan retro 11",
+        "descripcion":"hermoso par",
+        "codigo":2,
+        "image":"",
+        "precio":250,
+        "stock":true
+    },{
+        "id":3,
+        "nombre":"Nike Dunk x Travis Scott",
+        "descripcion":"Colaboración del famoso cantante Travis Scott junto con Nike",
+        "codigo":3,
+        "image":"",
+        "precio":2500,
+        "stock":true
+    },{
+        "id":4,
+        "nombre":"Nike Up Tempo x Scottie Pippen",
+        "descripcion":"Una colaboracion del Jugador de Basket junto con Nike",
+        "codigo":4,
+        "image":"",
+        "precio":500,
+        "stock":true
+    }
+]
+    
+
+
